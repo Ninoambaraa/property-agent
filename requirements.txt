@@ -3,3 +3,6 @@ langchain_openai
 langchain_core
 python-dotenv
 psycopg2
+streamlit
+pandas
+numpy
