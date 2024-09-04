@@ -2,7 +2,7 @@ langchain_community
 langchain_openai
 langchain_core
 python-dotenv
-psycopg2
+psycopg2-binary==2.9.9
 streamlit
 pandas
 numpy
